@@ -7048,7 +7048,7 @@ img {
 }
 
 .section_home.s-parallax {
-	background-image: url("../images/video_home.jpg");
+	background-image: url("../images/video_home.png");
 }
 
 @media (max-width: 1200px) {
@@ -17965,7 +17965,7 @@ body.active-side-header.slide-right .page_header_side {
 	}
 
 	.page_slider .intro_layers .title {
-		font-size: 50px;
+		font-size: 55px;
 		line-height: 30px;
 	}
 
@@ -19965,7 +19965,7 @@ img.absolute_image {
 
 .page_footer p.spec {
 	color: #fff;
-	font-size: 100px;
+	font-size: 50px;
 	font-weight: 700;
 	line-height: 100px;
 }
